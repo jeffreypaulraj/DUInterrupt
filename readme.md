@@ -4,5 +4,7 @@
 * Watches out for slowed reaction time
 * Animated demos below show synchronization between Apple Watch and iPhone
 
-![](phonetest.gif)
-![](watch.gif)<br/>
+
+![alt text](https://github.com/jeffreypaulraj/CalculatorApp/blob/master/Calculator_Landscape.png)
+![alt text](https://github.com/jeffreypaulraj/CalculatorApp/blob/master/Calculator_Portrait.png)
+<br/>
