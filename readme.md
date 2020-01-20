@@ -5,6 +5,6 @@
 * Animated demos below show synchronization between Apple Watch and iPhone
 
 
-![alt text](https://github.com/jeffreypaulraj/CalculatorApp/blob/master/Calculator_Landscape.png)
-![alt text](https://github.com/jeffreypaulraj/CalculatorApp/blob/master/Calculator_Portrait.png)
+![alt text](https://github.com/jeffreypaulraj/Bloodstream/blob/master/phonetest.gif)
+![alt text](https://github.com/jeffreypaulraj/Bloodstream/blob/master/watch.gif)
 <br/>
